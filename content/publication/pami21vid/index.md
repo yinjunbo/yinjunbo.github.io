@@ -33,7 +33,7 @@ summary: A general point cloud-based 3D video object detection framework is prop
 
 tags: []
 # - Source Themes
-featured: True
+featured: true
 
 # links:
 # - name: ""

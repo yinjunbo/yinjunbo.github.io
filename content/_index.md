@@ -221,7 +221,7 @@ sections:
   
   - block: experience
     content:
-      title: Working Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: 06 2006 #Jan 2006
