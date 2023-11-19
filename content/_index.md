@@ -211,6 +211,7 @@ sections:
         
         **Reviewer:**
         
+        * IEEE Conference on Computer Vision and Pattern Recognition (CVPR)  
         * IEEE Transactions on Image Processing (TIP)  
         * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
         * IEEE Robotics and Automation Letters (RAL) 
