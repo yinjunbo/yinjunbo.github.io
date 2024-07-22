@@ -103,7 +103,10 @@ sections:
       title: News
       text: |-
         <center style="text-align: left;">
-
+        
+        * 2024.07: 🎉🎉 **one paper** is accepted to ECCV'24.  
+        * 2024.06: 🎉🎉 **one paper** is accepted as a **Highlight Paper** to CVPR‘24. 
+        * 2024.02: 🎉🎉 **one papers** is accepted to AAAI‘24.
         * 2023.10: 🎉🎉 **one paper** is accepted to ICCV‘23.  
         * 2023.02: 🎉🎉 **two papers** are accepted to AAAI‘23.  
         * 2022.10: 🎉🎉 we are **2nd** in ECCV'22 [LiDAR Self-Supervised Learning Challenge](https://innoviz.tech/eccv-challenge).  
