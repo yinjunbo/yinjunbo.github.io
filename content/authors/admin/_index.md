@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Postdoc Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Beijing Institute of Technology
-    url: https://english.bit.edu.cn/
+  - name: King Abdullah University of Science and Technology (KAUST)
+    url: https://www.kaust.edu.sa/en/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,21 +28,21 @@ organizations:
 interests:
   - 3D Object Detection & Tracking
   - Multimodal Learning
-  - Transfer Learning
   - Autonomous Driving
+  - AI for Science
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Computer Vision
       institution: Beijing Institute of Technology
-      year: 2018
+      year: 2024
     - course: MEng in Pattern Recognition and Intelligent System
       institution: Beijing Institute of Technology
-      year: 2016
+      year: 2018
     - course: BSc in Automation
       institution: North China Electric Power University
-      year: 2012
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
