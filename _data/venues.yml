@@ -1,0 +1,34 @@
+"ICML":
+  url: https://icml.cc/
+  color: "#2f6f6b"
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#00369f"
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#00369f"
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#00369f"
+"AAAI":
+  url: https://aaai.org/conference/aaai/
+  color: "#7a4fa3"
+"3DV":
+  color: "#4a6572"
+"ACCV":
+  color: "#4a6572"
+"ITSC":
+  color: "#4a6572"
+"TPAMI":
+  url: https://www.computer.org/csdl/journal/tp
+  color: "#a13d2d"
+"TCSVT":
+  color: "#a13d2d"
+"NEUCOM":
+  color: "#4a6572"
+"Protein Sci.":
+  url: https://onlinelibrary.wiley.com/journal/1469896x
+  color: "#2f6f6b"
+"preprint":
+  url: https://arxiv.org/
+  color: "#9aa5a3"
