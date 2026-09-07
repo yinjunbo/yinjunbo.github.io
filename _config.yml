@@ -9,11 +9,11 @@ last_name: Yin
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Junbo Yin — Research Scientist at KAUST working on generative and agentic AI for verifiable protein design, multimodal and 3D geometric learning.
+  Junbo Yin — Research Scientist at KAUST working on multimodal and agentic AI for scientific discovery, with protein science as the primary research ground.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Junbo Yin, KAUST, protein design, generative AI, AI for science, 3D perception, multimodal learning
+keywords: Junbo Yin, KAUST, AI for science, agentic AI, multimodal AI, protein foundation models, protein design, autonomous scientific discovery
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬 # the emoji used as the favicon
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Generative and agentic AI for verifiable protein design.
+subtitle: Multimodal and agentic AI for scientific discovery.
 
 profile:
   align: right
@@ -23,13 +23,11 @@ latest_posts:
   enabled: false
 ---
 
-I build AI systems that can be **told what to make** and can **tell whether they succeeded**.
+My research focuses on **multimodal and agentic AI for scientific discovery**, with protein science as my primary research ground. My work centers on multimodal protein foundation models and recursive self-improving agents for long-horizon protein design tasks, with applications in the design of functional industrial enzymes and therapeutic proteins and peptides. More broadly, I am interested in AI systems that can move beyond generation toward reliable, verifiable, and increasingly autonomous scientific discovery. My long-term vision is to develop AI that can help bridge the gap from a scientist's intent to experimentally actionable and reproducible evidence.
 
-My research program is on **verifiable biomolecular design**. Generative models for proteins are improving quickly, but the harder question is no longer how to sample a plausible sequence, it is how to decide which designs deserve to be trusted before anyone spends a wet-lab month on them. I approach this in two layers. The first is a *foundation layer* that turns a functional specification, such as an enzyme class, GO terms, motifs or structural constraints, into conditions a generative model can act on; [CFP-GEN](/publications/) (ICML 2025) and SegDesign (Protein Science 2026) are the first two results. The second is a *decision layer* in which autonomous agents search design strategies under an explicit task contract that fixes in advance what counts as success. Together they are one system: one half can be told what to build, the other knows what to demand of the result.
+My research is grounded in a broader methodological background in multimodal AI and 3D geometric learning, including multimodal representation learning, self- and semi-supervised pre-training, domain adaptation, and learning from structured 3D data. I am now extending these foundations toward generative modeling, scientific reasoning, and long-horizon autonomous decision-making. At KAUST, I have established an independent research line in this direction. I am a co-investigator on a USD 900K KAUST Competitive Research Grant on AI agents for protein design, hold a USD 100K KAUST SPARK award, and have mentored junior Ph.D. and master's students to first-author publications at ICCV, ECCV, and AAAI.
 
-This program is my own line rather than a continuation of my host group's agenda. I entered protein design from a decade of learning on structured 3D data, including multimodal fusion, self- and semi-supervised pre-training and domain adaptation, and I am pushing those methods toward the part of design that is currently unaccountable: verification. I am a co-investigator on a KAUST Competitive Research Grant of USD 900K for AI agents for protein design, hold a KAUST SPARK award of USD 100K, and have mentored junior Ph.D. and master's students through to first-author publications at ICCV, ECCV and AAAI.
-
-I am a Research Scientist in the Computer Science Program at KAUST, where I work with the Structural and Functional Bioinformatics Group led by [Prof. Xin Gao](https://scholar.google.com/citations?user=wqdK8ugAAAAJ). I received my Ph.D. in Computer Science from Beijing Institute of Technology in 2024, advised by [Prof. Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ), and was a visiting Ph.D. student at EPFL with [Prof. Pascal Frossard](https://scholar.google.com/citations?user=-Ve9sJ0AAAAJ). My work appears at ICML, CVPR, ICCV, ECCV and AAAI and in IEEE TPAMI and Protein Science, with 2,600+ citations on [Google Scholar](https://scholar.google.com/citations?user=OiEQrqUAAAAJ). My thesis received BIT's Outstanding Ph.D. Dissertation Award, and our team took 1st place in the nuScenes Detection Challenge at the ICRA 2021 AI Driving Olympics.
+I am a Research Scientist in the Computer Science Program at KAUST, working with the Structural and Functional Bioinformatics Group led by [Prof. Xin Gao](https://scholar.google.com/citations?user=wqdK8ugAAAAJ). I received my Ph.D. in Computer Science from Beijing Institute of Technology (BIT) in 2024 under [Prof. Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ) and was a visiting Ph.D. student at EPFL with [Prof. Pascal Frossard](https://scholar.google.com/citations?user=-Ve9sJ0AAAAJ). My work has appeared at ICML, CVPR, ICCV, ECCV, and AAAI, and in IEEE TPAMI, with 2,600+ [Google Scholar](https://scholar.google.com/citations?user=OiEQrqUAAAAJ) citations. My Ph.D. thesis received BIT's Outstanding Ph.D. Dissertation Award, and I led the team that won first place in the nuScenes Detection Challenge at the ICRA 2021 AI Driving Olympics.
 
 <div class="row mt-4">
   <div class="col-md-6">
