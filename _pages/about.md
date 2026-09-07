@@ -41,6 +41,10 @@ I am a Research Scientist in the Computer Science Program at KAUST, working with
   </div>
   <div class="col-md-6">
     <h4>Academic service</h4>
-    <p class="mb-0">Reviewer for CVPR, IEEE TIP, IEEE TNNLS, IEEE RA-L, Pattern Recognition and Neurocomputing.</p>
+    <p class="mb-2">Reviewer for</p>
+    <ul class="mb-0">
+      <li><strong>Conferences</strong>: CVPR, NeurIPS, AAAI</li>
+      <li><strong>Journals</strong>: IEEE TIP, IEEE TNNLS, IEEE TCSVT, IEEE RA-L, Pattern Recognition, Neurocomputing, Sensors</li>
+    </ul>
   </div>
 </div>
