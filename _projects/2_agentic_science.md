@@ -1,4 +1,5 @@
 ---
+published: false # 暂时下线，日后大改后再打开
 layout: page
 title: Verifiable design by agents
 description: Fixing what counts as success before trusting a design.

@@ -1,4 +1,5 @@
 ---
+published: false # 暂时下线，日后大改后再打开
 layout: page
 title: Multimodal 3D representation learning
 description: The representation learning the other two threads are built on.

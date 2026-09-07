@@ -1,9 +1,10 @@
 ---
+published: false # 暂时下线，日后大改后再打开
 layout: page
 permalink: /research/
 title: research
 description: Models that can be told what to make, agents that can tell whether they succeeded, and the representation learning both rest on.
-nav: true
+nav: false
 nav_order: 2
 horizontal: false
 ---

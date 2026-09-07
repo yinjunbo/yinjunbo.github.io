@@ -38,7 +38,7 @@ I am a Research Scientist in the Computer Science Program at KAUST, where I work
       <li>Research Scientist, KAUST (2026&ndash;)</li>
       <li>Postdoctoral Fellow, KAUST (2024&ndash;2026)</li>
       <li>Visiting Ph.D., EPFL LTS4 (2022&ndash;2023)</li>
-      <li>Research Intern, Baidu Research, Robotics and Autonomous Driving Lab (2020&ndash;2021)</li>
+      <li>Research Intern, Baidu Research, Robotics and Autonomous Driving Lab (2019&ndash;2021)</li>
     </ul>
   </div>
   <div class="col-md-6">
