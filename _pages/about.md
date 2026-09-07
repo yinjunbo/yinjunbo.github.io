@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: |
-    <p>Research Scientist, CEMSE Division, <a href="https://www.kaust.edu.sa/">KAUST</a></p>
+    <p>Research Scientist</p>
+    <p>CEMSE Division, <a href="https://www.kaust.edu.sa/">KAUST</a></p>
 
 selected_papers: true
 social: true

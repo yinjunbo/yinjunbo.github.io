@@ -49,6 +49,17 @@ footer.sticky-bottom .container {
   padding-left: 15px;
 }
 
+/* The theme sets `.profile .more-info p { display: inline-block }`, so separate
+   paragraphs run together and break wherever the column happens to end. Make
+   each line its own block and centre the caption under the photo. */
+.profile .more-info {
+  text-align: center;
+
+  p {
+    display: block;
+  }
+}
+
 /* On narrow screens the profile column goes full width, so a square headshot
    fills the viewport and pushes the bio below the fold. Cap it and centre it. */
 @media (max-width: 575.98px) {
