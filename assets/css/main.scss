@@ -48,3 +48,17 @@ footer.sticky-bottom .container {
   padding-right: 15px;
   padding-left: 15px;
 }
+
+/* On narrow screens the profile column goes full width, so a square headshot
+   fills the viewport and pushes the bio below the fold. Cap it and centre it. */
+@media (max-width: 575.98px) {
+  .profile {
+    width: 100%;
+    text-align: center;
+
+    figure {
+      max-width: 62%;
+      margin-inline: auto;
+    }
+  }
+}
