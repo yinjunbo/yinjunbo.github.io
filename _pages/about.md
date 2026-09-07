@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, Computer Science Program, <a href="https://www.kaust.edu.sa/">KAUST</a>. Generative and agentic AI for verifiable protein design.
+subtitle: Generative and agentic AI for verifiable protein design.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: |
-    <p>CEMSE Division, KAUST</p>
+    <p>Research Scientist</p>
+    <p>CEMSE Division, <a href="https://www.kaust.edu.sa/">KAUST</a></p>
     <p>Thuwal, Saudi Arabia</p>
 
 selected_papers: true
