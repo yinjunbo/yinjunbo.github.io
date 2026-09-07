@@ -9,7 +9,7 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-<p>Full list and citation counts on <a href="https://scholar.google.com/citations?user=OiEQrqUAAAAJ">Google Scholar</a>. * denotes equal contribution.</p>
+<p>Full list and citation counts on <a href="https://scholar.google.com/citations?user=OiEQrqUAAAAJ&hl=en">Google Scholar</a>. * denotes equal contribution.</p>
 
 <!-- Bibsearch Feature -->
 
